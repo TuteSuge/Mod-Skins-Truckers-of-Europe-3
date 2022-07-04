@@ -1,0 +1,105 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://ipsaya.com/hostinglokasi.php",
+      "contact": "https://www.tiktok.com/@metadigital.az",
+      
+      "addon": false,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      "skinML": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "",
+        "role": "",
+        "image": "",
+        "file_url": "",
+        "imgcoversatu": "",
+        "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 11,
+    "name_skin": "Skin Template Fiora Fi Man - Truckers of Europe 3",
+    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/3.png",
+    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/Fiora-Fi-Man_Skin_Template.png",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/1.png"
+  },
+  {
+    "id": 12,
+    "name_skin": "Skin Template Volcano VN - Truckers of Europe 3",
+    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/3.png",
+    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/Volcano-VN_Skin_Template.png",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/1.png"
+  },
+  {
+    "id": 13,
+    "name_skin": "Skin Scania S Grafite V8 Edition - Truckers of Europe 3",
+    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/3.png",
+    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/Stream s grafite v8 edition.png (2).png",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/1.png"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+    },
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+    }
+  
+
+      
+      
+    ]
+}
