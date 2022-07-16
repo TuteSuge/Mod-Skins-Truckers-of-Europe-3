@@ -1,105 +1,362 @@
 {
-  "Config": [
-    {
-      "interval": 5,
-      "backup": "unity",
-      "status": true,
-      "link": "https://ipsaya.com/hostinglokasi.php",
-      "contact": "https://www.tiktok.com/@metadigital.az",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
-      "skin": true,
-      "more": false,
-      "skinML": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
-      "unity_banner": "Banner_Android",
-      "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
-      "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
-      
-      
-    }
-  ],
-  "Addon": [
-    {
+    "Config": [
+      {
+        "interval": 2,
+        "backup": "unity",
+        "status": true,
+        "link": "https://ipsaya.com/hostinglokasi.php",
+        "contact": "https://www.google.com/",
+        
+        "addon": false,
+        "maps": false,
+        "texture": false,
+        "skin": true,
+        "more": false,
+        "skinML": false,
+        
+        "admob_open_ads": "ca-app-pub-3044835834543602/5137065353",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111xx",
+        "admob_inter": "ca-app-pub-3044835834543602/1053246461",
+        "admob_native": "ca-app-pub-3044835834543602/1926510285",
+       
+        
+        "unity_banner": "Banner_Android",
+        "unity_inter": "Interstitial_Android",
+        
+        
+        "applovin_banner": "unitid",
+        "applovin_inter": "unitid",
+        "applovin_native": "unitid",
+        
+        "ironsource_banner": "1215fccad",
+        "ironsource_inter": "1215fccad"
+        
+        
+      }
+    ],
+    "Addon": [
+      {
+          "name": "",
+          "role": "",
+          "image": "",
+          "file_url": "",
+          "imgcoversatu": "",
+          "imgcoverdua": ""
+      }
+    ],
+    "Map": [
+      {
         "name": "",
         "role": "",
         "image": "",
         "file_url": "",
         "imgcoversatu": "",
         "imgcoverdua": ""
-    }
-  ],
-  "Map": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Skins": [
-    {
-    "id": 11,
-    "name_skin": "Skin Template Fiora Fi Man - Truckers of Europe 3",
-    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/3.png",
-    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/Fiora-Fi-Man_Skin_Template.png",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/1.png"
-  },
-  {
-    "id": 12,
-    "name_skin": "Skin Template Volcano VN - Truckers of Europe 3",
-    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/3.png",
-    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/Volcano-VN_Skin_Template.png",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/1.png"
-  },
-  {
-    "id": 13,
-    "name_skin": "Skin Scania S Grafite V8 Edition - Truckers of Europe 3",
-    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/3.png",
-    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/Stream s grafite v8 edition.png (2).png",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/1.png"
-  }
-  ],
-  "More":
-  [
-      
-      
-  
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      }
+    ],
+    "Skins": [
+      {
+      "id": 1,
+      "name_skin": "Skin Template Fiora Fi Man - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/Fiora-Fi-Man_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/1.png"
     },
     {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      "id": 2,
+      "name_skin": "Skin Template Volcano VN - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/Volcano-VN_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/1.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Skin Scania S Grafite V8 Edition - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/Stream s grafite v8 edition.png (2).png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/1.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Skin Ford F-Maxx Rodojunior - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/Ford-F-Maxx-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/1.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Skin Ford F-Maxx Rodojunior - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/18/Mb-actros-mb-696x340.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/18/MB-New-Actros-Merdedes.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/18/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/18/2.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Skin Scania S Rodojúnior Transportes - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/Scania-S-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/1.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Skin Scania S Faixas Rosa - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/Volcano-VN_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/2.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Skin Scania R V8 Special Edition - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/22/1.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/22/Stream-s-com-faixa-rosa.png.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/22/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/22/2.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Skin Scania S Grafite V8 Edition - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/28/2.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/28/Stream s grafite v8 edition.png (2).png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/28/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/28/1.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Skin Man TGA Black - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/29/2.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/29/Man TGA Preto.png.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/29/1.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/29/1.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Skin Scania S Grafite V8 Edition - TRUCKERS OF EUROPE 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/Stream s grafite v8 edition.png (2).png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/1.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Skin Man TGA Black - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/Man TGA Preto.png.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/1.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Skin Man TGX John Deere - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/5/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/5/Skin-Man-TGX-John-Deere.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/5/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/5/1.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Skin Template Fiora Fi Man - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/Fiora-Fi-Man_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/11/1.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Skin Template Volcano VN - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/Volcano-VN_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/12/1.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Skin Scania S Grafite V8 Edition - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/Stream s grafite v8 edition.png (2).png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/13/1.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Skin Volvo FH16 Faixas Brasil - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/14/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/14/Volvo-FH-BR.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/14/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/14/1.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Skin Volvo FH16 Rodojunior - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/15/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/15/Volvo-FH16-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/15/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/15/1.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Skin Volvo FH16 Fontanella - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/16/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/16/Volvo-FH-Fontanella.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/16/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/16/1.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Skin Ford F-Maxx Rodojunior - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/Ford-F-Maxx-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/17/1.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "truck",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Stream-ST_Skin Nitteberg.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg"
+    },
+    {
+      "id": 19,
+      "name_skin": "truck",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/1.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/Man-TGA-Lion.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/1.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/1.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Skin Scania S Grafite V8 Edition - TRUCKERS OF EUROPE 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/Stream s grafite v8 edition.png (2).png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/1.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Skin Scania S Rodojúnior Transportes - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/Scania-S-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/1.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Skin Volvo FH 16 ”Especial 25 Anos” - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/Volvo-FH-25-anos.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/1.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Skin Template Fiora Fi Man - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/23/1.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/23/Fiora-Fi-Man_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/22/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/22/1.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Skin Template Merieles Antares - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/24/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/24/Merieles-Antares_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/24/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/24/1.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Skin Template Moon THX - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/25/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/25/Moon-THX_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/25/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/25/1.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Skin Man TGA Lion - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/26/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/26/Man-TGA-Lion.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/26/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/26/1.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Skin Scania S Rodojúnior Transportes - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/Scania-S-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/19/1.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Skin Volvo FH 16 ”Especial 25 Anos” - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/Volvo-FH-25-anos.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/20/1.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Skin Scania S Faixas Rosa - Truckers of Europe 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/Volcano-VN_Skin_Template.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/21/2.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "TRUCKERS OF EUROPE 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/6/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/6/Volvo-FH16-Rodojunior.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/6/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/6/1.png"
+    },
+    {
+      "id": 31,
+      "name_skin": "TRUCKERS OF EUROPE 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Stream-ST_Skin Nitteberg.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg"
+    },
+    {
+      "id": 32,
+      "name_skin": "TRUCKERS OF EUROPE 3",
+      "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/8/3.png",
+      "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/8/Man-TGA-Cat.png",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/8/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/8/1.png"
     }
+    ],
+    "More":
+    [
+        
+        
+    
+      {
+        "id":1,
+        "title":"",
+        "image":"",
+        "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      },
+      {
+        "id":1,
+        "title":"",
+        "image":"",
+        "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      }
+    
   
-
-      
-      
-    ]
-}
+        
+        
+      ]
+  }
+  
