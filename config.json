@@ -1,7 +1,7 @@
 {
     "Config": [
       {
-        "interval": 2,
+        "interval": 5,
         "backup": "unity",
         "status": true,
         "link": "https://ipsaya.com/hostinglokasi.php",
